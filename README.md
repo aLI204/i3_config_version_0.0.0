@@ -1,3 +1,3 @@
 # i3
 
-config > i3wm_config_file
+i3_config_file
